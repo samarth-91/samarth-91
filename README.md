@@ -1,7 +1,7 @@
 ![logo](https://images.unsplash.com/photo-1561754825-6f9d7b82322d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80)
 
 <h1 align="center">Hi 👋, I'm samarth singh chauhan</h1>
-<h3 align="center">A frontend developer who is also passionate about machine learning</h3>
+<h3 align="center">A Machine Learning guy who loves to play with Data</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on tradingbot with sentiment analysis<br>🤝 I’m looking for help with finding a job in machine learning or data analysis domain<br>🌱 I’m currently learning about AWS<br>
